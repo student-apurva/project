@@ -1,3 +1,3 @@
 # New Project
 
-This is new repository on the local system. Apurva Jadhav
+This is new repository on the local system. Apurva Jadhav.
